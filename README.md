@@ -12,7 +12,7 @@ Welcome to wtf!_linux, a game where you delve into the fundamentals and far corn
 ```
 $ wtf!_linux --register
 ```
-To register, fork this repository, and add a new file with your team name in this format - 
+To register, fork this repository, and add a new file in the folder ```registrations``` with your team name in this format - 
 
 ```teamname.txt```
 
