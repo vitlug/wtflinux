@@ -29,4 +29,4 @@ There will be 6 rounds in this contest, the first round being a quiz, and the re
 You will battle it out against each other over super-interesting Linux riddles and kernel hackery, to proceed to the forthcoming rounds.<br>
 There will be a bonus round with a surprise as well :)
 
-
+>**NOTE**: This competition is only available to the members of the VIT Linux Users Group, at Vellore Institute of Technology, Vellore.
